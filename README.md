@@ -1,7 +1,11 @@
 # belajar-mevn-stack
 Backend 
-1.Buat database terlebih dahulu dengan nama mevn ,lalu import table maven.sql 
-2.Setting konfigurasi di file database.js di folder config 
+<ul>
+<li>Buat database terlebih dahulu dengan nama mevn ,lalu import table maven.sql 
+</li>
+<li>Setting konfigurasi di file database.js di folder config 
+</li>
+</ul>
 
 Frontend 
 untuk package manager gunakan pnpm
